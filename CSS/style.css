@@ -1,3 +1,4 @@
+/* header */ 
 header {
     height: 80px;
     background-color: lightblue;
@@ -9,5 +10,6 @@ header {
     width: auto;
 }
 .autore {
-    color: aqua;
+    color: aqua
+;
 }
