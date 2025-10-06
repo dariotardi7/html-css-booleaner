@@ -16,3 +16,17 @@ header {
 .evidenzia {
     background-color: yellow;
 }
+thead {
+    background-color:rgb(43, 43, 238);
+    color: white;
+}
+.bg-lightblue {
+    background-color: lightblue;
+}
+table {
+    border-collapse:collapse
+    text-align: left
+}
+.large-col {
+    width: 50%;
+}
