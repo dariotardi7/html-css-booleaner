@@ -30,3 +30,18 @@ table {
 .large-col {
     width: 50%;
 }
+.suggerimenti {
+    color: rgb(84, 82, 82);
+}
+.monitor {
+    width: 200px;
+    height: 200px;
+    background-image: url(../monitor.jpg);
+    background-position: center;
+}
+.grafico {
+    width: 200px;
+    height: 200px;
+    background-image: url(../graph.jpg);
+    background-position: center;
+}
